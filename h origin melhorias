@@ -1,0 +1,23 @@
+[33mcommit f83f8d3980a0c9ab1489f2ecc38f51432e367150[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: SamotChris <christomas63@gmail.com>
+Date:   Fri Jun 28 21:32:38 2024 -0300
+
+    Implementar método listarProdutos na classe ProdutosDAO
+
+[33mcommit 054cad562e9ca05ee1ffdf2a75022c79564e9716[m[33m ([m[1;31morigin/melhorias[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmelhorias[m[33m)[m
+Author: SamotChris <christomas63@gmail.com>
+Date:   Tue Jun 25 22:18:03 2024 -0300
+
+    Implementar funcionalidades de venda e listagem de produtos
+
+[33mcommit 96b99418083fb89191371fcbb38bfea9c9eb925c[m
+Author: SamotChris <christomas63@gmail.com>
+Date:   Mon Jun 24 22:08:51 2024 -0300
+
+    Adiciona arquivo README.md
+
+[33mcommit d91f59a234788ff46b85696121211b5e6e04e6b2[m
+Author: SamotChris <christomas63@gmail.com>
+Date:   Mon Jun 24 21:59:40 2024 -0300
+
+    Projeto inicial
